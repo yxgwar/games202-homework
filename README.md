@@ -1,8 +1,7 @@
 # games202-homework
 
-## homework1
-![](./homework1/images/SM_1.png)
-![](./homework1/images/SM_2.png)
-![](./homework1/images/PCF_1.png)
-![](./homework1/images/PCF_2.png)
+## [作业1-ShadowMap, PCF, PCSS](./homework1/images)
 ![](./homework1/images/PCSS_1.png)
+
+## [作业2-PRT(Precomputed Radiance Transfer)](./Assignment2/images)
+![](./Assignment2/images/CornellBox_1.png)
