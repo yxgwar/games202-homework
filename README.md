@@ -5,3 +5,6 @@
 
 ## [作业2-PRT(Precomputed Radiance Transfer)](./Assignment2/images)
 ![](./Assignment2/images/CornellBox_1.png)
+
+## [作业3-Screen Space Ray Tracing](./homework3/images/)
+![](./homework3/images/3.2.png)
