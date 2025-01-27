@@ -8,3 +8,6 @@
 
 ## [作业3-Screen Space Ray Tracing](./homework3/images/)
 ![](./homework3/images/3.2.png)
+
+## [作业4-Kulla-Conty BRDF](./homework4/images/)
+![](./homework4/images/2.png)
